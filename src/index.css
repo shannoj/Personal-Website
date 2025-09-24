@@ -1,1 +1,9 @@
+#root{
+  width: screen;
+  height: screen;
+}
 
+body{
+    width: screen;
+    height: 100%;
+}
